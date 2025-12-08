@@ -229,3 +229,9 @@ This project successfully demonstrates:
 
 The results validate both the mathematical properties of Poisson, Exponential, and Normal distributions, and the correctness of the Python implementation.
 
+---
+
+### ✨ Acknowledgment
+
+This document was partially assisted by ChatGPT-5 for text generation and grammar refinement.
+
